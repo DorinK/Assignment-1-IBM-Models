@@ -1,11 +1,6 @@
 
 README for IBMModel1.py and IBMModel2.py:
 
-******************************
-	Dorin Keshales
-	  313298424
-******************************
-
 
 In the current working directory should be:
 1. IBMModel1.py

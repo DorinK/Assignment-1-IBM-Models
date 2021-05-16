@@ -5,4 +5,4 @@ link to Instructions file: https://docs.google.com/document/d/16NOAMZ836C-AecSH8
 
 In this assignment, I experimented with word alignments by implementing a word-alignment software - IBM Model 1 and IBM Model 2.
 
-Grade: 100 + bonus on best results in both models.
+Score: 100 + bonus on best results in both models.
